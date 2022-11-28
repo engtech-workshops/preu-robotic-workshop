@@ -120,6 +120,39 @@
 
 
         ---
+        # Robot Systems
+        ---
+        ## Conceptual Structure
+
+        <img src="../img/basics-PIC1.png" alt="Robot Conceptual Structure" style="height:400px"/>
+
+        The conceptual structure and essential six parts of all robot systems.
+        ---
+        ## Examples
+
+        <div style="display:flex;align-items:center">
+        <img src="../img/basics-PIC2.png" alt="Robot Systems Examples" style="height:500px"/>
+        <p style="font-size:smaller;text-align:justify;margin-left:1ex">An example of different robot systems and how they can be structured in a common way. The diagrams reflect the relative importance of each part through its size and degree of detail.</p>
+        </div>
+        ---
+        ## Robot Manipulators
+
+        <img src="../img/basics-PIC3.png" alt="Robot Conceptual Structure" style="height:400px"/>
+
+        Examples of robot manipulators
+        ---
+        ## Mobile Robots
+
+        <img src="../img/basics-PIC4.png" alt="Robot Conceptual Structure" style="height:400px"/>
+
+        Examples of mobile robots
+        ---
+        ## Mobile Manipulators
+
+        <img src="../img/basics-PIC5.png" alt="Robot Conceptual Structure" style="height:400px"/>
+
+        Examples of mobile manipulators
+        ---
         ### In today's workshop
 
         We will learn how to instruct a mini-computer using simple instructions you and I can pick up quickly
