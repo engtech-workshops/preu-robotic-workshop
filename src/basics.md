@@ -61,63 +61,12 @@
         ## Why do I want to instruct a computer a.k.a programming?
 
         ---
-        ### Programming allows us to solve (complex) problems using a computer
 
-        adding a few numbers may be easy to you and me, but adding a few hundred random numbers may already sound overwhelming...
-        ---
-        ### Programming allows us to solve (complex) problems using a computer
+        ## If we want the computer to complete a task, how should we instruct it with programming?
 
-        How about creating a website to sell things online?
-        ---
-        ### Programming allows us to solve (complex) problems using a computer
-        
-        How about making a robot able to move and avoid obstacles?
-
-        ---
-        ### Programming allows us to solve (complex) problems using a computer
-        
-        How about teaching a computer to differentiate a dog from a cat? 
-        ---
-        ### But it sounds difficult....
-
-        There is a technique one can use to help solving complex problem and instruct a computer accordingly...
-        ---
-        ## Computational Thinking
-        
-        <img src="https://bam.files.bbci.co.uk/bam/live/content/zg6bgk7/large" alt="Computational Thinking" style="height:400px"/>
-
-        <small>Image taken from https://www.bbc.co.uk/bitesize/guides/zp92mp3/revision/1</small>
-        ---
-        ### Computational Thinking: Decomposition
-        breaking down a complex problem or system into smaller, more manageable parts
-
-        ---
-        ### Computational Thinking: Pattern Recognition 
-        looking for similarities among and within problems
-
-        ---
-        ### Computational Thinking: Abstraction
-        
-        focusing on the important information only, ignoring irrelevant detail
-
-        ---
-        ### Computational Thinking: Algorithms
-        developing a step-by-step solution to the problem, or the rules to follow to solve the problem
-
-        ---
-        ### Putting altogether
-        Computational thinking allows us to take a complex problem, understand what the problem is and develop possible solutions. 
-        
-        We can then present these solutions in a way that a computer, a human, or both, can understand.
-        
-        ---
-        ### What can you find in a programming language?
-
-        * ability to acquire data (input)
-        * ability to do soemthing (output)
-        * ability to repeat instructions when desired (loop)
-        * ability to make decisions (operation)
-
+        * Think and plan what you want to achieve with the code
+        * Break it down to smaller steps
+        * Tackle the steps one at a time (write snippets of code and test!)
 
         ---
         # Robot Systems
