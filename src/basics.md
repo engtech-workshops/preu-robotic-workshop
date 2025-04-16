@@ -5,7 +5,7 @@
     <section data-markdown>
       <textarea data-template>
         # Welcome to Robotic Workshop
-        by Sunway University, School of Engineering and Technology
+        by Sunway University, Faculty of Engineering and Technology
         ---
         # Basics of programming
         ---

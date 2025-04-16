@@ -15,7 +15,7 @@
             | 11:30 am | See you around |
             ---
             # Welcome to Robotic Workshop
-            by Sunway University, School of Engineering and Technology
+            by Sunway University, Faculty of Engineering and Technology
             ---
             ## Health & Safety
             Fire extinguishers &middot; First aid kits &middot; Exits &middot; Staircase &middot; Water &middot; Shoes

@@ -41,11 +41,11 @@ extra:
   social: 
     - icon: fontawesome/solid/building
       link: https://university.sunway.edu.my/site
-      name: School of Engineering and Technology
+      name: Faculty of Engineering and Technology
     - icon: fontawesome/brands/github
       link: https://ricwtk.github.io/
       name: Richard Wong
-copyright: Prepared by <a href="https://ricwtk.github.io/" target="_blank">Richard Wong</a> for <a href="https://university.sunway.edu.my/set" taget="_blank">Sunway University, School of Engineering and Technology</a>
+copyright: Prepared by <a href="https://ricwtk.github.io/" target="_blank">Richard Wong</a> for <a href="https://university.sunway.edu.my/set" taget="_blank">Sunway University, Faculty of Engineering and Technology</a>
 nav:
   - index.md
   - Basics: "basics.md"
